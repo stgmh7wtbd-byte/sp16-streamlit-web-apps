@@ -14,7 +14,7 @@ explain things in a simple, friendly way.
 
 INSTRUCTIONS:
 -------------
-Create a simple app that asks for the user’s name using st.text_input()
+Create a simple app that asks for the user's name using st.text_input()
 and displays a greeting with st.write() like:
 
     "Hello, [Name]!"

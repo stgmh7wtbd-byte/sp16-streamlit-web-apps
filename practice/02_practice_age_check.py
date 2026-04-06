@@ -14,7 +14,7 @@ explain things in a simple, friendly way.
 
 INSTRUCTIONS:
 -------------
-Ask the user to enter their name and age. If they’re 18 or older, display:
+Ask the user to enter their name and age. If they're 18 or older, display:
 
     "Welcome, [Name]. You are an adult."
 
