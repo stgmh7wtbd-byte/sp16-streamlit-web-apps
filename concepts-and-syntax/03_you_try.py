@@ -30,6 +30,11 @@ st.write("your choice", choice)
 
 """
 
+import streamlit as st
+
+say_something = st.text_input('say something cool: ')
+st.write(f'yeah ig "{say_something}" is cool')
+
 # YOU TRY:
 # try adding text_input widgets to get the age and a name and use st.write to
 # display what was entered.
