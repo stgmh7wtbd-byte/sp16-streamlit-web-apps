@@ -30,6 +30,11 @@ st.write(random.randrange(0, 101))  # Why does this generate a new number every 
 st.button("Click Me")
 
 """
+import random
+import streamlit as st
+
+st.write(random.randrange(0, 101))  # Why does this generate a new number every time the button is clicked?
+st.button("Click Me")
 
 # YOU TRY:
 # Copy the code from above into this .py file, save it, and then try pressing
