@@ -27,6 +27,14 @@ st.write("This app shows sales data for the quarter.")  # normal text
 
 ### 3.p You Try
 """
+import streamlit as st
+
+st.write('##### I')
+st.write('#### am')
+st.write('### just')
+st.write('## a')
+st.write('# girl')
+
 
 # YOU TRY:
 # try adding some text using `st.write()`. Try adding some with various numbers
