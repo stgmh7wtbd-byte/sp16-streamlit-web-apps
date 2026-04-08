@@ -24,5 +24,5 @@ If the input is empty, show "Please enter your name."
 
 import streamlit as st 
 
-name = st.text_input('Tell me your name!: ')
+name = st.text_input('Tell me your name! ')
 st.write(f'Hello, {name}')
